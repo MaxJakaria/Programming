@@ -21,7 +21,7 @@ int main(){
     	cout<< "YES\n"<< v.size()<< '\n';
     	for(int i=v.size()-1;i>=0;i--) cout<< v[i]<< ' '; 
     }
-	else cout<<"NO\n";
+    else cout<<"NO\n";
 
-	return 0;
+    return 0;
 }
