@@ -5,4 +5,4 @@
 04. 1020B - Badge - https://codeforces.com/problemset/problem/1020/B
 
 # Floyed Warshall Algorithm
-06. 295B - Greg and Graph - https://codeforces.com/problemset/problem/295/B
+05. 295B - Greg and Graph - https://codeforces.com/problemset/problem/295/B
