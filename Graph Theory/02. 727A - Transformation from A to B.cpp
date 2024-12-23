@@ -12,9 +12,7 @@ int main(){
     	if(lastDigit%2 == 1 && lastDigit>1) break;
 
     	if(lastDigit == 1) b = (b-1)/10, v.push_back(b);
-    	else b = b/2, v.push_back(b);
-    	
-    	
+    	else b = b/2, v.push_back(b);	
     }
     
     if(b==a){
