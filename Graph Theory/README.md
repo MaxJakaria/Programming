@@ -6,3 +6,6 @@
 
 ### Floyed Warshall Algorithm
 05. 295B - [Greg and Graph](https://codeforces.com/problemset/problem/295/B)
+
+### DSU
+06. [City and Flood](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-flood-1/) 
