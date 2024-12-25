@@ -8,4 +8,7 @@
 05. 295B - [Greg and Graph](https://codeforces.com/problemset/problem/295/B)
 
 ### DSU
-06. [City and Flood](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-flood-1/) 
+06. [City and Flood](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-flood-1/)
+
+### Dijkstra Algorithm
+07. [20C - Dijkstra?](https://codeforces.com/problemset/problem/20/C)
