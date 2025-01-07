@@ -14,4 +14,4 @@
 7. [20C - Dijkstra?](https://codeforces.com/problemset/problem/20/C)
 
 ### Kruskal's Algorithm
-8. [1245D - Shichikuji and Power Grid](https://codeforces.com/contest/1245/problem/D){minimun spanning tree}
+8. [1245D - Shichikuji and Power Grid](https://codeforces.com/contest/1245/problem/D) ~minimun spanning tree
