@@ -1,9 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
-#define ll long long
 
-ll knapSack(int W, vector<int> &weight, vector<int> &value){
-    vector<ll> dp(W+2,0);
+long long knapSack(int W, vector<int> &weight, vector<int> &value){
+    vector<long long> dp(W+2,0);
     for(int i=1; i<=weight.size(); i++){
         for(int w = W; w>=0; w--){
             if(weight[i] <= w){
