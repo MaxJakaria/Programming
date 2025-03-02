@@ -6,4 +6,6 @@
 4. [Coin Change](https://leetcode.com/problems/coin-change/)
 5. [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)
 ### Atcoder Educational DP Contest
-7. D - [Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)
+6. D - [Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)
+### Leetcode
+7. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
